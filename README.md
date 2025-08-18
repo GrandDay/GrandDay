@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GrandDay
 - 👀 I’m interested in hobbiest maker tech and keyboards
-- 🌱 I’m currently learning QMK and arduino developement
+- 🌱 I’m currently learning QMK and arduino developement, as well as IaC
 - 💞️ I’m looking to collaborate on my Dactyle manuform esque 8x8 keyboard
 - 📫 How to reach me - comment here. will be updated in the future
 
