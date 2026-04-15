@@ -1,10 +1,46 @@
-- 👋 Hi, I’m @GrandDay
-- 👀 I’m interested Infrastructure as code, Automation, Machine Learning, getting close to my hardware, and learning through expirementation and labbing
-- 🌱 I’m currently learning QMK and arduino developement, as well as IaC, and it's varied applications 
-- 💞️ I’m looking to collaborate on my Dactyle manuform esque 8x8 keyboard, as well as portions of my personal projects (to be published here once sanitized)
-- 📫 How to reach me - comment here. will be updated in the future
-- My current primary project envisions a very well automated DevSecOps platform. I will begin releasing components of this project, as well as sanitized tools I have built to facilitate this project, interact with it's components, and manage many of it's aspects and processes. 
-<!---
-GrandDay/GrandDay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+ # Hey, I'm John 👋
+ 
+ Sacramento-based IT consultant, homelabber, and chronic pattern-finder. I have a hard 
+ time looking at any system — technical or otherwise — without wanting to understand every 
+ layer and how they connect. My GitHub is where I document that process in public.
+ 
+ > *"My career path is less a git tree and more a gnarled manzanita bush.  
+ > Still growing. Still branching."*
+ 
+ ## What I'm Building
+ 
+ - 🏗️ **Cue-verse** — A framework for giving your homelab depth and linked memory. 
+   Because a lab without context is just a pile of running VMs.
+ - 📦 **Userspace** *(WIP)* — How do we own our own data and make it interoperable 
+   across modern tech — whether you have one external drive or a full rack? 
+   Figuring it out in public.
+ - 🔐 **DevSecOps platform** — Building and releasing sanitized components as I go. 
+   Security-first, human-readable.
+ 
+ ## Current Stack & Experiments
+ 
+ - **Homelab:** Proxmox · Docker / Dockploy · Ubuntu Server · Aeon Desktop · 
+   Windows Server · Netbird VPN · Uptime Kuma
+ - **Tinkering:** Arduino · Raspberry Pi · QMK / custom keyboards
+ - **ML node:** Dual RTX 3090 · 128GB ECC — running local models, learning 
+   what "agentic" actually means in practice
+ - **Working toward:** Self-hosted IDP (Authentik) · observability pipelines · 
+   HA at homelab scale
+ 
+ ## Where I'm At
+ 
+ 📚 CalBright College &nbsp;|&nbsp; ✅ CompTIA Security+  
+ 💼 Self-employed IT Consultant &nbsp;|&nbsp; 📍 Sacramento, CA
+ 
+ ## What You'll Find Here
+ 
+ Experiments. Works in progress. Tools I built because I needed them. Documentation
+ of things I figured out the hard way. I believe the process is worth sharing, not
+ just the result — and that you can learn something from anyone willing to show their work.
+ 
+ ## Connect
+ 
+ - 💼 [LinkedIn](https://www.linkedin.com/in/john-mcdougal-012a02370/)
+ - 🌐 [cue-verse.quest](https://cue-verse.quest) *(blog — coming soon)*
+ - 📫 Open an issue or reach out on LinkedIn
