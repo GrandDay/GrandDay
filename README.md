@@ -5,8 +5,7 @@
  time looking at any system — technical or otherwise — without wanting to understand every 
  layer and how they connect. My GitHub is where I document that process in public.
  
- > *"My career path is less a git tree and more a gnarled manzanita bush.  
- > Still growing. Still branching."*
+ > *"Less a git tree, more a manzanita -- grows in every direction, thrives where other plants won't. Still branching."*
  
  ## What I'm Building
  
