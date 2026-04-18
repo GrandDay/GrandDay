@@ -45,4 +45,4 @@ just the result -- and that you can learn something from anyone willing to show 
 
 - 🌐 [johnmcdougal.com](https://johnmcdougal.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/john-mcdougal-012a02370/)
-- 📫 Open an issue or reach out on LinkedIn
+- 📫 [john@johnmcdougal.com](mailto:john@johnmcdougal.com)
