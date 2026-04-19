@@ -43,6 +43,6 @@ just the result -- and that you can learn something from anyone willing to show 
 
 ## Connect
 
-- 🌐 [johnmcdougal.com](https://johnmcdougal.com)
+- 🌐 [johnmcdougal.com](https://www.johnmcdougal.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/john-mcdougal-012a02370/)
 - 📫 [john@johnmcdougal.com](mailto:john@johnmcdougal.com)
