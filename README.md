@@ -8,7 +8,7 @@ layer and how they connect. My GitHub is where I document that process in public
 
 ## 🌐 johnmcdougal.com
 
-Blog, projects, and the thinking behind the work -- all live at **[johnmcdougal.com](https://johnmcdougal.com)**.
+Blog, projects, and the thinking behind the work -- all live at **[johnmcdougal.com](https://www.johnmcdougal.com)**.
 
 ## What I'm Building
 
